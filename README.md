@@ -9,4 +9,3 @@
   ### 3) Patiente pour savoir si tu es sélectionné pour l'étape suivante.
 
   ### 4) C'est tout ! si tu as déja crée un compte, connecte-toi pour compléter ta candidature ou suivre son progrès.
-
